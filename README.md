@@ -21,4 +21,4 @@
 
 ## 5. Video Lecture
 
-[Watch the video lecture](https://youtu.be/alfmHTYsEU4)
+[![Watch the video lecture](https://img.youtube.com/vi/alfmHTYsEU4/hqdefault.jpg)](https://youtu.be/alfmHTYsEU4)
